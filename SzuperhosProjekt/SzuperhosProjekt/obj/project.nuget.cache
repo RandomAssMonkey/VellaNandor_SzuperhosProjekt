@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3n0SeognCvHsaE64+CkeEwxqAk42VVGcVMkQploGqrodun3AGbQssi4SKH2X/AKs24PNaSZ3rF4fB73q6qIZsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dini\\Source\\Repos\\SzuperhosProjekt\\SzuperhosProjekt\\SzuperhosProjekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Dini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

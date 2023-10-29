@@ -1,0 +1,15 @@
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\bin\Debug\net6.0\SzuperhosProjekt.exe
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\bin\Debug\net6.0\SzuperhosProjekt.deps.json
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\bin\Debug\net6.0\SzuperhosProjekt.runtimeconfig.json
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\bin\Debug\net6.0\SzuperhosProjekt.dll
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\bin\Debug\net6.0\SzuperhosProjekt.pdb
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.AssemblyInfoInputs.cache
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.AssemblyInfo.cs
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.sourcelink.json
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.dll
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\refint\SzuperhosProjekt.dll
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.pdb
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\SzuperhosProjekt.genruntimeconfig.cache
+C:\Users\Dini\Source\Repos\SzuperhosProjekt\SzuperhosProjekt\obj\Debug\net6.0\ref\SzuperhosProjekt.dll
